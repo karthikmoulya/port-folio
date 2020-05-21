@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/port-folio/static/css/main.5cc07f7e.chunk.css",
+    "main.js": "/port-folio/static/js/main.a2697c4e.chunk.js",
+    "main.js.map": "/port-folio/static/js/main.a2697c4e.chunk.js.map",
+    "runtime-main.js": "/port-folio/static/js/runtime-main.d48780da.js",
+    "runtime-main.js.map": "/port-folio/static/js/runtime-main.d48780da.js.map",
+    "static/js/2.e2785f80.chunk.js": "/port-folio/static/js/2.e2785f80.chunk.js",
+    "static/js/2.e2785f80.chunk.js.map": "/port-folio/static/js/2.e2785f80.chunk.js.map",
+    "index.html": "/port-folio/index.html",
+    "precache-manifest.f95db7ce9cf7a4281fb9b22d7266ae7b.js": "/port-folio/precache-manifest.f95db7ce9cf7a4281fb9b22d7266ae7b.js",
+    "service-worker.js": "/port-folio/service-worker.js",
+    "static/css/main.5cc07f7e.chunk.css.map": "/port-folio/static/css/main.5cc07f7e.chunk.css.map",
+    "static/js/2.e2785f80.chunk.js.LICENSE.txt": "/port-folio/static/js/2.e2785f80.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/port-folio/static/media/coffee-apple.2dd213aa.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d48780da.js",
+    "static/js/2.e2785f80.chunk.js",
+    "static/css/main.5cc07f7e.chunk.css",
+    "static/js/main.a2697c4e.chunk.js"
+  ]
+}
